@@ -1,0 +1,18 @@
+{
+  "name": "sls-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serverless-offline": "^5.4.2"
+  },
+  "dependencies": {
+    "graphql": "^14.3.1",
+    "graphql-server-lambda": "^1.4.0"
+  }
+}
